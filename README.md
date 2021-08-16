@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love football and cars
 
 ### Connect with me:
-[LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"](https://www.linkedin.com/in/daniel-mutua-7062a119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglh%2B08fMRuWaf4H0Lhgsig%3D%3D)
+[LinkedIn](https://www.linkedin.com/in/daniel-mutua-7062a119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglh%2B08fMRuWaf4H0Lhgsig%3D%3D)
 
 
 ### Languages and Tools:
@@ -40,13 +40,3 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
