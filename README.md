@@ -9,12 +9,8 @@
 - ⚡ Fun fact: I love football and cars
 
 ### Connect with me:
+[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/daniel-mutua-7062a119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglh%2B08fMRuWaf4H0Lhgsig%3D%3D)
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/daniel-mutua-7062a119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bglh%2B08fMRuWaf4H0Lhgsig%3D%3D]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
