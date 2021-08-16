@@ -1,16 +1,16 @@
 ### Hi there, I'm Daniel Mutua 👋
 
-)
+
 
 ## I'm a AWS Solutions Architect and a Full stack Developer!!
 
 - 🌱 I’m currently learning software development in Moringa School
-
+- 🌱 I’m very passionate  about technology
 - ⚡ Fun fact: I love football and cars
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]the mutua[twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
