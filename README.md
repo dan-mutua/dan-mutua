@@ -23,6 +23,8 @@
 <img align="left" alt="python" width="26px" src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" />
 <img align="left" alt="python" width="26px" src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" />
 <center>
+  <hr>
+  
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryan23&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
