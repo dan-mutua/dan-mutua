@@ -28,10 +28,12 @@
   
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mutua&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=dan-mutua&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mutua&langs_count=5&theme=tokyonight"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/?username=dan-mutua&count_private=true&theme=tokyonight&showicons=true"/></td>
 </table>
 </center>
+
+
 
 
 
