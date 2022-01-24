@@ -4,7 +4,8 @@
 
 ## I'm a AWS Solutions Architect and a Full stack Developer!!
 
-- 🌱 I’m currently learning software development in Moringa School
+- 🌱 I’m currently working as a full-stack dev
+- 🌱 Open to software dev projects
 - 🌱 I’m very passionate  about technology
 - ⚡ Fun fact: I love football and cars
 
