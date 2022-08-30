@@ -27,11 +27,7 @@
   
   <hr>
   
-<table>
-  <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-mutua&langs_count=5&theme=tokyonight"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/?username=dan-mutua&count_private=true&theme=tokyonight&showicons=true"/></td>
-</table>
+
 </center>
 
 
